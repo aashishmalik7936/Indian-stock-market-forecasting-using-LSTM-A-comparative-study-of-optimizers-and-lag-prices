@@ -1,5 +1,5 @@
 # Indian-stock-market-forecasting-using-LSTM-A-comparative-study-of-optimizers-and-lag-prices
-The repository contains three files realted to the paper and their details are as follows:
+The repository contains three files related to the paper and their details are as follows:
 
 1. hdfcbank_lstm_paperwork_lag5.ipynb: This file contains the code of the LSTM model built using lag 5 data. Optimizer used in this code is RMSprop and activation function is tanh.
 
